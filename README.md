@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sentinel-wrex
 - 👀 I’m interested in space technology, marine technology and machine learning.
-- 🌱 I’m currently learning java, as i have completed C,C++ and python.
+- 🌱 I’m currently tensorflow, as i have completed C,C++, java, python and web development.
 - 💞️ I’m looking to collaborate on various projects as well as to work on embedded systems.
 - 📫 How to reach me darksentinal13@gmail.com
 
