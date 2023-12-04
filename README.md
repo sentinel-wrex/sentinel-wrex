@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sentinel-wrex
-- 👀 I’m interested in space technology, marine technology and machine learning.
-- 🌱 I’m currently tensorflow, as i have completed C,C++, java, python and web development.
+- 👀 I’m interested in machine learning, cybersecurity and space technology.
+- 🌱 I am well versed in C,C++, java, python, web development and have an understanding of machine learning libraries.
 - 💞️ I’m looking to collaborate on various projects as well as to work on embedded systems.
-- 📫 How to reach me darksentinal13@gmail.com
+- 📫 How to reach me rushilkumar13@gmail.com
 
 <!---
 sentinel-wrex/sentinel-wrex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
